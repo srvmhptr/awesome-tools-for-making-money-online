@@ -55,3 +55,7 @@ Have a suggestion? Please open an issue to recommend a resource!
 - **PayPal** - The most widely recognized and used online payment processor globally.
 - **Stripe** - A powerful payment gateway for online businesses, known for its excellent API and developer-friendly tools.
 - **Payoneer** - A great platform for freelancers and businesses to receive international payments.
+
+### Freelance Productivity Tools
+
+- **[BeginThings](https://beginthings.com)** - A free collection of 96+ browser-based productivity tools for freelancers. Includes invoice generator, QR code maker, UTM builder, time tracker, Pomodoro timer, rate calculator, contract templates, and developer utilities. No login or install required.
